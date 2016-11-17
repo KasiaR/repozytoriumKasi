@@ -1,4 +1,4 @@
-
+//Komentarz mastera
 /*  The ConsoleApplet provides a basis for writing applets that simulate
     line-oriented console-type input/output.  The class ConsoleCanvas is
     used to provide the I/O routines; these routines type output into
