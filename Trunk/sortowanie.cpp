@@ -1,3 +1,4 @@
+//Komentarz mastera
 //Sortowanie b¹belkowe
 //dawidex44
 //www.algoryt,.org
