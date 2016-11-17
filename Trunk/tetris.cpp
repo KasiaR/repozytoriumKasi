@@ -1,3 +1,4 @@
+//komentarza Katarzyna Rugie³³o
 #include "stdafx.h"
 #include "glut.h"
 #include "glut_funcs.h"
