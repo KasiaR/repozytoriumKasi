@@ -1,3 +1,4 @@
+//Komentarz mastera
 #include <iostream>
 #include <string>    //do napisów
 #include <conio.h>   //do clrscr
