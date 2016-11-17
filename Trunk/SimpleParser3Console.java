@@ -1,4 +1,4 @@
-
+//Komentarz mastera
 /* Simulation of console-I/O program SimpleParser3,
    using ConsoleApplet as a basis.  See the file
    ConsoleApplet.java for more information.
