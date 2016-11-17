@@ -1,3 +1,4 @@
+//Komentarz mastera
 public class LengthConverter3 {
 
    /* 
