@@ -1,3 +1,4 @@
+//komentarza Katarzyna Rugie³³o
 public class LengthConverter3 {
 
    /* 
