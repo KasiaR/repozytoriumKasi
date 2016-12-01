@@ -1,3 +1,4 @@
+//Komentarz z vima
 //Komentarz mastera
 /*  The ConsoleApplet provides a basis for writing applets that simulate
     line-oriented console-type input/output.  The class ConsoleCanvas is
