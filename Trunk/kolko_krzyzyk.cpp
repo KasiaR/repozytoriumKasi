@@ -1,3 +1,4 @@
+//komentarz z vima
 //Komentarz mastera
 #include <iostream>
 #include <string>    //do napisów
