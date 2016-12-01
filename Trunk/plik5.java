@@ -1,5 +1,6 @@
 //Komentarz z vima
 //Komentarz mastera
+//komentarz mastera z vima
 /* Simulation of console-I/O program Interest3,
    using ConsoleApplet as a basis.  See the file
    ConsoleApplet.java for more information.
