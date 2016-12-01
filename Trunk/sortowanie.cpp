@@ -2,7 +2,7 @@
 //Sortowanie b¹belkowe
 //dawidex44
 //www.algoryt,.org
-
+//Komentarz mastera z vima
 
 #include<iostream>
 #include<conio.h>
