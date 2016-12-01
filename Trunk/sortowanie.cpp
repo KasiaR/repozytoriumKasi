@@ -3,12 +3,14 @@
 //dawidex44
 //www.algoryt,.org
 
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
 
 int main()
 {
+printf("Kasia Rugie³³o");
 int t[6]={33,41,54,43,61,1},schowek,zamiana; //deklaracja zmiennych, przypisanie liczb do tablicy
 do
 {
