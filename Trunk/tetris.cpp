@@ -1,5 +1,6 @@
 //Komentarz z vima
-//Komentarz mastera
+//Komentarz mastera\
+//komentarz mastera z vima
 #include "stdafx.h"
 #include "glut.h"
 #include "glut_funcs.h"
