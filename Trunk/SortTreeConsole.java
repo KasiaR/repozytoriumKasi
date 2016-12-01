@@ -1,3 +1,4 @@
+//komentarz w nowym branchu z vima
 //Komentarz mastera
 //komentarz mastera z vima
 /* Simulation of console-I/O program SortTreeDemo,

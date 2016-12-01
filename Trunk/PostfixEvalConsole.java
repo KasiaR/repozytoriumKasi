@@ -1,3 +1,4 @@
+//Komentarz nowego brancha z vima
 //Komentarz mastera
 /* Simulation of console-I/O program PostfixConsole,
    using ConsoleApplet as a basis.  See the file
