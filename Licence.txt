@@ -1,0 +1,272 @@
+
+f this licence in different languages, visit:
+http://www.osor.eu/eupl/european-union-public-licence-eupl-v.1.1
+
+=============================================================================
+
+Licencja publiczna Unii Europejskiej v.1.1
+
+EUPL Œ˜Œ˜ WspÛlnota Europejska 2007
+
+Niniejsza licencja publiczna Unii Europejskiej (ŒÈŒÌEUPLŒÈŒÌ)ŒÌŒ˜ stosowana jest w
+odniesieniu do Utworu lub Oprogramowania (w rozumieniu definicji poniøej)
+przekazywanego na warunkach niniejszej Licencji. Wszelka eksploatacja Utworu inna
+niø dozwolona na mocy niniejszej Licencji jest zakazana (w zakresie, w jakim
+eksploatacja taka jest objÍta prawami posiadacza praw autorskich do Utworu).
+UtwÛr Oryginalny jest przekazywany na warunkach niniejszej Licencji, jeøeli
+Licencjodawca (w rozumieniu definicji poniøej) umieúci nastÍpujπcπ adnotacjÍ
+bezpoúrednio po zastrzeøeniu praw autorskich do Utworu Oryginalnego:
+Licencjonowano na mocy EUPL v.1.1
+lub w jakikolwiek inny sposÛb wyrazi swπ intencjÍ udzielenia licencji na mocy
+EUPL.
+ŒÌŒ˜ EUPL: "European Union Public Licence"
+
+1. Definicje
+
+W niniejszej Licencji stosuje siÍ nastÍpujπce definicje:
+- Licencja: niniejsza Licencja.
+- UtwÛr Oryginalny lub Oprogramowanie: oprogramowanie dystrybuowane lub
+przekazywane przez LicencjodawcÍ na mocy niniejszej Licencji, dostÍpne w postaci
+Kodu èrÛd≥owego, a ewentualnie takøe Kodu Wykonywalnego.
+- Utwory Zaleøne: utwory lub oprogramowanie, ktÛre mogπ zostaÊ opracowane przez
+LicencjobiorcÍ na podstawie Utworu Oryginalnego bπdü jego modyfikacji. Niniejsza
+Licencja nie okreúla zakresu modyfikacji lub zaleønoúci od Utworu Oryginalnego,
+wymaganego dla sklasyfikowania utworu jako Utworu Zaleønego; zakres taki ustala
+siÍ na mocy przepisÛw prawa autorskiego obowiπzujπcego w paÒstwie, o ktÛrym
+mowa w pkt 15.
+- UtwÛr: UtwÛr Oryginalny lub zwiπzane z nim Utwory Zaleøne.
+- Kod èrÛd≥owy: postaÊ Utworu nadajπca siÍ do odczytu przez cz≥owieka,
+najdogodniejsza do analizy i modyfikacji.
+- Kod Wykonywalny: kaødy kod, ktÛry zosta≥ zasadniczo skompilowany i ktÛry jako
+program przeznaczony jest do interpretacji przez komputer.
+- Licencjodawca: osoba fizyczna bπdü prawna, ktÛra dystrybuuje lub przekazuje
+UtwÛr na mocy Licencji.
+- WspÛ≥autor (WspÛ≥autorzy): kaøda osoba fizyczna lub prawna, ktÛra modyfikuje
+UtwÛr na mocy Licencji lub w inny sposÛb przyczynia siÍ do stworzenia Utworu
+Zaleønego.
+- Licencjobiorca: kaøda osoba fizyczna lub prawna, ktÛra w jakimkolwiek zakresie
+korzysta z Oprogramowania na warunkach Licencji.
+- Dystrybucja lub Przekazanie: kaødy przypadek sprzedaøy, darowania,
+wypoøyczania, najmu, rozpowszechniania, przekazywania, nadania lub innego
+udostÍpniania kopii Utworu do dyspozycji innej osobie fizycznej bπdü prawnej lub
+zapewniania im dostÍpu do jego istotnych funkcji w trybie on-line lub off-line.
+
+2. Zakres praw przyznawanych na mocy Licencji
+
+Licencjodawca niniejszym przyznaje Licencjobiorcy obowiπzujπcπ na ca≥ym úwiecie,
+bezp≥atnπ, niewy≥πcznπ licencjÍ z prawem do dalszego sublicencjonowania, na
+wykonywanie nastÍpujπcych czynnoúci przez okres obowiπzywania praw autorskich
+do Utworu Oryginalnego:
+- korzystanie z Utworu we wszelkich okolicznoúciach i dla wszelkich celÛw,
+zwielokrotnianie Utworu,
+- modyfikacja Utworu Oryginalnego oraz opracowywanie UtworÛw Zaleønych
+na podstawie Utworu,
+- publiczne przekazywanie, w tym prawo do publicznego udostÍpniania lub
+prezentacji Utworu lub jego kopii oraz do ewentualnego publicznego
+wykonywania Utworu,
+- rozpowszechnianie Utworu lub jego kopii,
+- wypoøyczanie i najem Utworu lub jego kopii,
+- sublicencjonowanie praw do Utworu lub jego kopii.
+Powyøsze prawa mogπ byÊ wykonywane bez wzglÍdu na noúnik, rodzaj wsparcia i
+format, znany obecnie lub opracowany w przysz≥oúci, pod warunkiem zgodnoúci z
+przepisami obowiπzujπcego prawa.
+W paÒstwach, w ktÛrych przys≥ugujπ autorskie prawa osobiste, Licencjodawca zrzeka
+siÍ przys≥ugujπcego mu uprawnienia do wykonywania swoich autorskich praw
+osobistych w zakresie dozwolonym obowiπzujπcymi przepisami w celu umoøliwienia
+skutecznego udzielenia licencji w zakresie autorskich praw majπtkowych
+wyszczegÛlnionych powyøej.
+Licencjodawca niniejszym przyznaje Licencjobiorcy bezp≥atne, niewy≥πczne prawa
+do eksploatacji wszelkich patentÛw posiadanych przez LicencjodawcÍ w zakresie
+niezbÍdnym dla korzystania z praw do Utworu przyznanych na mocy niniejszej
+Licencji.
+
+3. Przekazanie Kodu èrÛd≥owego
+
+Licencjodawca moøe przekazaÊ UtwÛr w postaci Kodu èrÛd≥owego lub Kodu
+Wykonywalnego. Jeøeli UtwÛr przekazuje siÍ w postaci Kodu Wykonywalnego,
+Licencjodawca przekazuje jednoczeúnie kopiÍ Kodu èrÛd≥owego Utworu w formie
+przeznaczonej do odczytu maszynowego wraz z kaødπ kopiπ Utworu, ktÛrπ
+Licencjodawca rozpowszechnia, bπdü wskazuje, w adnotacji nastÍpujπcej po
+zastrzeøeniu praw autorskich do≥πczonym do Utworu, repozytorium, w ktÛrym ≥atwo i
+bezp≥atnie dostÍpny jest Kod èrÛd≥owy w czasie, w ktÛrym Licencjodawca
+dystrybuuje lub przekazuje UtwÛr.
+
+4. Ograniczenia praw autorskich
+
+úadne z postanowieÒ niniejszej Licencji nie zmierza do pozbawienia Licencjobiorcy
+korzyúci wynikajπcych z wszelkich wyjπtkÛw lub ograniczeÒ uprawnieÒ wy≥πcznych
+w≥aúcicieli praw do Utworu Oryginalnego lub Oprogramowania ani z wyczerpania
+powyøszych uprawnieÒ lub innych stosownych ich ograniczeÒ.
+
+5. Obowiπzki Licencjobiorcy
+
+Przyznanie praw, o ktÛrych mowa powyøej, podlega pewnym ograniczeniom i
+obowiπzkom na≥oøonym na LicencjobiorcÍ. Do takich obowiπzkÛw naleøπ:
+Prawo do oznaczenia autorstwa: Licencjobiorca zobowiπzuje siÍ pozostawiÊ w
+niezmienionej formie wszelkie zastrzeøenia o prawach autorskich, patentach lub
+znakach towarowych oraz wszelkie adnotacje dotyczπce Licencji i wy≥πczenia
+gwarancji. Licencjobiorca zobowiπzany jest do≥πczaÊ kopiÍ takich zastrzeøeÒ i
+adnotacji oraz kopiÍ Licencji do kaødej kopii Utworu przez niego dystrybuowanej lub
+przekazywanej. Licencjobiorca musi zapewniÊ, aby wszelkie Utwory Zaleøne
+opatrzone zosta≥y w widocznym miejscu zastrzeøeniami informujπcymi, øe UtwÛr
+uleg≥ modyfikacji, wraz z datπ takiej modyfikacji.
+Klauzula zakazu wprowadzania zmian i ograniczeÒ do Licencji (ŒÈŒÌCopyleftŒÈŒÌ):
+Jeøeli Licencjobiorca dystrybuuje lub przekazuje kopie UtworÛw Oryginalnych lub
+UtworÛw Zaleønych opracowanych na podstawie Utworu Oryginalnego, taka
+Dystrybucja lub Przekazanie odbywa siÍ na warunkach niniejszej Licencji lub
+pÛüniejszej wersji niniejszej Licencji, chyba øe UtwÛr Oryginalny wyraünie
+dystrybuuje siÍ jedynie na mocy niniejszej wersji Licencji. Licencjobiorca (stajπcy siÍ
+wÛwczas Licencjodawcπ) nie moøe oferowaÊ ani nak≥adaÊ na UtwÛr ani na UtwÛr
+Zaleøny øadnych dodatkowych postanowieÒ ani warunkÛw zmieniajπcych bπdü
+ograniczajπcych warunki Licencji.
+Klauzula zgodnoúci: Jeøeli Licencjobiorca dystrybuuje lub przekazuje Utwory
+Zaleøne lub ich kopie opracowane na podstawie Utworu Oryginalnego i innego
+utworu licencjonowanego na mocy Zgodnej Licencji, taka Dystrybucja lub
+Przekazanie moøe siÍ odbyÊ na warunkach takiej Zgodnej Licencji. Na potrzeby tej
+klauzuli pojÍcie ŒÈŒÌZgodnej LicencjiŒÈŒÌ obejmuje licencje wyszczegÛlnione w za≥πczniku
+do niniejszej Licencji. Jeøeli obowiπzki Licencjobiorcy wynikajπce ze Zgodnej
+Licencji sπ sprzeczne z jego obowiπzkami wynikajπcymi z niniejszej Licencji,
+obowiπzki okreúlone w Zgodnej Licencji majπ charakter nadrzÍdny.
+Dostarczenie Kodu èrÛd≥owego: Dystrybuujπc lub przekazujπc kopie Utworu,
+Licencjobiorca zobowiπzuje siÍ dostarczaÊ przeznaczonπ do odczytu maszynowego
+kopiÍ Kodu èrÛd≥owego lub wskazywaÊ repozytorium, w ktÛrym taki Kod bÍdzie
+≥atwo i bezp≥atnie dostÍpny w czasie, w ktÛrym Licencjobiorca dystrybuuje lub
+przekazuje UtwÛr.
+Ochrona prawna: Niniejsza Licencja nie stanowi upowaønienia do korzystania z
+nazw handlowych, znakÛw towarowych, znakÛw us≥ugowych ani nazw
+Licencjodawcy, z wyjπtkiem przypadkÛw uzasadnionego i zwyczajowo przyjÍtego
+opisu pochodzenia Utworu i powielania treúci zastrzeøenia o prawach autorskich.
+
+6. Ciπg autorstwa
+
+Pierwotny Licencjodawca gwarantuje, øe prawa autorskie do Utworu Oryginalnego
+przyznane na mocy niniejszej Licencji stanowiπ jego w≥asnoúÊ lub posiada je na mocy
+stosownej licencji oraz øe jest uprawniony i upowaøniony do przyznania Licencji.
+Kaødy WspÛ≥autor gwarantuje, øe prawa autorskie do modyfikacji, jakie wprowadza
+do Utworu, stanowiπ jego w≥asnoúÊ lub posiada je na mocy stosownej licencji oraz øe
+jest uprawniony i upowaøniony do udzielenia Licencji.
+Zawsze gdy Licencjobiorca akceptuje LicencjÍ, pierwotny Licencjodawca i pÛüniejsi
+WspÛ≥autorzy udzielajπ Licencjobiorcy stosownej licencji w zakresie ich wk≥adu w
+UtwÛr na warunkach niniejszej Licencji.
+
+7. Wy≥πczenie gwarancji
+
+UtwÛr ma charakter utworu nieukoÒczonego, wciπø usprawnianego przez wielu
+wspÛ≥autorÛw. Nie stanowi on utworu gotowego i dlatego moøe posiadaÊ wady lub
+b≥Ídy w≥aúciwe dla tej formy tworzenia oprogramowania.
+Z powyøszych wzglÍdÛw UtwÛr przekazuje siÍ na mocy Licencji w postaci, w jakiej
+jest udostÍpniany i bez jakichkolwiek gwarancji dotyczπcych Utworu, w tym miÍdzy
+innymi bez gwarancji przydatnoúci handlowej, gwarancji przydatnoúci do
+okreúlonego celu, gwarancji braku wad lub b≥ÍdÛw, gwarancji dok≥adnoúci, gwarancji
+braku naruszenia praw w≥asnoúci intelektualnej innych niø prawa autorskie, o ktÛrych
+mowa w pkt 6 niniejszej Licencji.
+Niniejsze wy≥πczenie gwarancji stanowi istotny element Licencji oraz warunek
+przyznania wszelkich praw do Utworu.
+
+8. Wy≥πczenie odpowiedzialnoúci
+
+Z zastrzeøeniem przypadkÛw umyúlnych dzia≥aÒ na szkodÍ lub szkÛd wyrzπdzonych
+bezpoúrednio osobom fizycznym, Licencjodawca w øadnym wypadku nie ponosi
+odpowiedzialnoúci za bezpoúrednie lub poúrednie, majπtkowe lub osobiste szkody
+dowolnego rodzaju wynikajπce z Licencji lub eksploatacji Utworu, w tym miÍdzy
+innymi nie ponosi odpowiedzialnoúci za szkody zwiπzane z utratπ wartoúci firmy,
+przerwami w produkcji, awariπ bπdü zak≥Ûceniami pracy komputera, utratπ danych ani
+za wszelkie inne szkody gospodarcze, nawet jeøeli Licencjodawca zosta≥
+poinformowany o moøliwoúci ich wystπpienia. Jednakøe Licencjodawca ponosi
+odpowiedzialnoúÊ zgodnie z ustawowymi przepisami regulujπcymi kwestie
+odpowiedzialnoúci za produkt w zakresie, w jakim takie przepisy znajdujπ
+zastosowanie wobec Utworu.
+
+9. Dodatkowe zobowiπzania
+
+Podczas dystrybucji Utworu Oryginalnego lub UtworÛw Zaleønych Licencjobiorca
+moøe dokonywaÊ dodatkowych uzgodnieÒ w zakresie oferowania i pobierania op≥at z
+tytu≥u wsparcia, gwarancji, odszkodowania bπdü innych zobowiπzaÒ w zakresie
+odpowiedzialnoúci lub us≥ug zgodnych z niniejszπ Licencjπ. Jednakøe przyjmujπc
+takie zobowiπzania, Licencjobiorca moøe wystÍpowaÊ jedynie we w≥asnym imieniu i
+na w≥asnπ odpowiedzialnoúÊ, a nie w imieniu pierwotnego Licencjodawcy ani
+øadnego innego WspÛ≥autora, oraz tylko pod warunkiem, øe Licencjobiorca
+zobowiπøe siÍ wzglÍdem kaødego WspÛ≥autora do wyp≥acenia mu odszkodowania,
+jego obrony i zwolnienia go z odpowiedzialnoúci, jeúli w zwiπzku z faktem, øe
+Licencjobiorca poczyni≥ dodatkowe zobowiπzania lub gwarancje, wobec takiego
+WspÛ≥autora wysuwane bÍdπ roszczenia lub powstanπ zobowiπzania dotyczπce
+odpowiedzialnoúci.
+
+10. PrzyjÍcie Licencji
+
+Postanowienia niniejszej Licencji podlegajπ przyjÍciu poprzez klikniÍcie ikony
+ŒÈŒÌZgadzam siÍŒÈŒÌ umieszczonej na dole okna prezentujπcego pe≥nπ treúÊ niniejszej
+Licencji lub poprzez potwierdzenie swej zgody w jakikolwiek inny podobny sposÛb
+zgodny z w≥aúciwymi przepisami prawa. KlikniÍcie takiej ikony jest rÛwnoznacznie z
+wyraünym i nieodwo≥alnym przyjÍciem niniejszej Licencji oraz wszelkich jej
+warunkÛw.
+Analogicznie, rÛwnowaøne z nieodwo≥alnym przyjÍciem przez LicencjobiorcÍ
+niniejszej Licencji i wszelkich jej warunkÛw jest takøe wykonanie jakiegokolwiek
+prawa przyznanego Licencjobiorcy na mocy pkt 2 niniejszej Licencji, takiego jak
+prawo do korzystania z Utworu, prawo do opracowania przez LicencjobiorcÍ Utworu
+Zaleønego bπdü prawo do Dystrybucji lub Przekazania przez LicencjobiorcÍ Utworu
+lub jego kopii.
+
+11. Informacja publiczna
+
+W przypadku Dystrybucji lub Przekazania przez LicencjobiorcÍ Utworu drogπ
+komunikacji elektronicznej (na przyk≥ad poprzez oferowanie Utworu do pobrania z
+lokalizacji zdalnej), kana≥ dystrybucji lub noúnik (na przyk≥ad witryna internetowa)
+musi przynajmniej zapewniaÊ do wglπdu informacje wymagane przepisami
+obowiπzujπcego prawa dotyczπce Licencjodawcy, Licencji oraz sposobu, w jaki
+Licencja moøe zostaÊ udostÍpniona, przyjÍta, przechowywana i zwielokrotniana przez
+LicencjobiorcÍ.
+
+12. WygaúniÍcie Licencji
+
+Licencja i prawa przyznane na jej mocy wygasajπ automatycznie z chwilπ naruszenia
+przez LicencjobiorcÍ warunkÛw Licencji.
+Takie wygaúniÍcie nie skutkuje jednak wygaúniÍciem licencji øadnej z osÛb, ktÛre
+otrzyma≥y UtwÛr od Licencjobiorcy na mocy Licencji, pod warunkiem øe takie osoby
+w pe≥ni przestrzegajπ postanowieÒ Licencji.
+
+13. Postanowienia rÛøne
+
+Bez uszczerbku dla postanowieÒ pkt 9, Licencja stanowi ca≥oúÊ porozumienia miÍdzy
+Stronami w przedmiocie Utworu licencjonowanego na jej mocy.
+Jeøeli jakiekolwiek postanowienie Licencji okaøe siÍ niewaøne lub niewykonalne na
+gruncie obowiπzujπcego prawa, pozostanie to bez wp≥ywu na waønoúÊ lub
+wykonalnoúÊ Licencji jako ca≥oúci. Takie postanowienie bÍdzie interpretowane lub
+zmienione w taki sposÛb, by zapewniÊ jego waønoúÊ i wykonalnoúÊ.
+Komisja Europejska moøe publikowaÊ inne wersje jÍzykowe lub nowe wersje
+niniejszej Licencji, jeøeli jest to poøπdane i uzasadnione, bez zawÍøania zakresu praw
+przyznanych na mocy Licencji. Nowe wersje Licencji bÍdπ publikowane wraz z
+towarzyszπcym im niepowtarzalnym numerem wersji.
+Wszystkie zatwierdzone przez KomisjÍ Europejskπ wersje jÍzykowe niniejszej
+Licencji majπ takπ samπ wartoúÊ. Strony korzystajπ z dowolnej wersji jÍzykowej.
+
+14. Jurysdykcja
+
+Wszelkie spory sπdowe zwiπzane z interpretacjπ niniejszej Licencji, wynik≥e miÍdzy
+Komisjπ Europejskπ jako Licencjodawcπ a dowolnym Licencjobiorcπ, podlegajπ
+jurysdykcji Trybuna≥u Sprawiedliwoúci WspÛlnot Europejskich, zgodnie z
+postanowieniami art. 238 Traktatu ustanawiajπcego WspÛlnotÍ Europejskπ.
+Wszelkie spory sπdowe zwiπzane z interpretacjπ niniejszej Licencji, wynik≥e miÍdzy
+Stronami innymi niø Komisja Europejska, podlegajπ wy≥πcznej jurysdykcji sπdu
+w≥aúciwego dla miejsca zamieszkania Licencjodawcy bπdü jego podstawowego
+miejsca prowadzenia dzia≥alnoúci gospodarczej.
+
+15. Prawo w≥aúciwe
+
+Niniejsza Licencja podlega przepisom prawa paÒstwa cz≥onkowskiego Unii
+Europejskiej, w ktÛrym zamieszkuje lub posiada swπ siedzibÍ Licencjodawca.
+Niniejsza Licencja podlega przepisom prawa belgijskiego, jeøeli:
+- spÛr sπdowy wyniknie miÍdzy Komisjπ Europejskπ jako Licencjodawcπ a
+dowolnym Licencjobiorcπ;
+- Licencjodawca, inny niø Komisja Europejska, nie posiada miejsca
+zamieszkania ani siedziby w øadnym z paÒstw cz≥onkowskich Unii
+Europejskiej.
+
+Za≥πcznik
+
+ŒÈŒÌZgodne LicencjeŒÈŒÌ w rozumieniu pkt 5 EUPL obejmujπ nastÍpujπce licencje:
+- GNU General Public License (GNU GPL) v. 2
+- Open Software License (OSL) v. 2.1, v. 3.0
+- Common Public License v. 1.0
+- Eclipse Public License v. 1.0
+- Cecill v. 2.0
