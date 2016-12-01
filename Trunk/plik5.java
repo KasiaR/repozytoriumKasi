@@ -1,3 +1,4 @@
+//Komentarz z vima
 //Komentarz mastera
 /* Simulation of console-I/O program Interest3,
    using ConsoleApplet as a basis.  See the file
