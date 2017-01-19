@@ -1,3 +1,4 @@
+//jeszcze jeden komentarz
 //komentarz w nowym branchu z vima
 //Komentarz mastera
 //komentarz mastera z vima
